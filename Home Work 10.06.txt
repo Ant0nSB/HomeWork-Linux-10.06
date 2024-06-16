@@ -1,0 +1,17 @@
+   0 mkdir -p /home/user/start
+   1 cd /home/user/start
+   2 tauch 1.txt
+   3 touch 1.txt
+   4 echo "Start" > 1.txt
+   5 tree
+   6 date >> 1.txt
+   7 cat 1.txt
+   8 clear
+   9 sudo mkdir -p /opt/task
+  10 tree
+  11 cd/home
+  12 cd /home
+  13 tree
+  14 sudo cp /home/user/start/1.txt /opt/task/start.txt
+  15 ls -a / | tail -n 4 | sudo tee -a /opt/task/start.txt
+  16 history
